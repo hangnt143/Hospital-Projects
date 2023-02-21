@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Welcome to my hospital data warehouse!
 
 ### Using the starter project
 
