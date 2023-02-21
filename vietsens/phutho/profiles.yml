@@ -1,0 +1,11 @@
+phutho:
+  target: dev
+  outputs:
+    dev:
+      type: clickhouse
+      schema: phutho
+      host: 10.56.10.100
+      port: 8123
+      user: iam_not_admin
+      password: 'Admin123@!'
+      secure: False

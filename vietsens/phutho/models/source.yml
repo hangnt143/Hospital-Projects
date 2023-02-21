@@ -1,0 +1,42 @@
+version: 2
+
+sources:
+- name: phutho
+  tables:
+    - name: DIM_BenhNhan
+    - name: DIM_CSKCB
+    - name: DIM_DanToc
+    - name: DIM_DichVu
+    - name: DIM_DoiTuongVaoVien
+    - name: DIM_Khoa
+    - name: DIM_LoaiBenhAn
+    - name: DIM_Ngay
+    - name: DIM_PTTT
+    - name: FACT_ChiDinhDichVu
+    - name: FACT_ChiDinhDichVu_PhauThuatThuThuat
+    - name: FACT_HoaDon
+    - name: FACT_HoaDon_ChiTietHoaDon
+    - name: FACT_ThongTinChuyenTuyen
+    - name: FACT_ThongTinDieuTri
+    - name: FACT_ThongTinDieuTri_ThongTinDieuTriKhoa
+    - name: FACT_ThongTinDieuTri_ThongTinDieuTriKhoa_ThongTinDieuTriPhong
+    - name: MAPPING_BenhAn
+    - name: MAPPING_DanToc
+    - name: MAPPING_DoiTuongVaoVien
+    - name: MAPPING_Khoa
+    - name: MAPPING_PTTT
+    - name: REF_CSKCB
+    - name: REF_DoiTuongVaoVien
+    - name: REF_Khoa
+    - name: REF_LoaiBenhAn
+    - name: REF_PTTT
+    - name: STAGING_ChiDinhDichVu
+    - name: STAGING_ChiDinhDichVu_PhauThuatThuThuat
+    - name: STAGING_HoaDon
+    - name: STAGING_HoaDon_ChiTietHoaDon
+    - name: STAGING_ThongTinChuyenTuyen
+    - name: STAGING_ThongTinDieuTri
+    - name: STAGING_ThongTinDieuTri_ThongTinDieuTriKhoa
+    - name: STAGING_ThongTinDieuTri_ThongTinDieuTriKhoa_ThongTinDieuTriPhong
+
+

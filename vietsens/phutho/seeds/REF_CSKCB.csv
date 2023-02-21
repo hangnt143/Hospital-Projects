@@ -1,0 +1,369 @@
+MaCSKCB,TenCSKCB,DiaChi,MaTinh,TenTinh,MaHuyen,TenHuyen,MaXa,TenXa,TuyenBenhVien
+25347,Phòng khám đa khoa Trường Cao đẳng Y tế Phú Thọ,"Khu 5, Phường Trường Thịnh, Thị xã Phú Thọ, Tỉnh Phú Thọ",25,Phú Thọ,0,,0,,3
+25027,Phòng khám đa khoa Xí nghiệp dịch vụ - Tổng Công ty Giấy Việt Nam,Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,0,,3
+25042,Bệnh xá trường Đại học Công nghiệp Việt Trì,Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,0,,4
+25047,Trạm y tế phường Dữu Lâu,Phường Dữu Lâu - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7888,Phường Dữu Lâu,4
+25021,Bệnh xá Công ty TNHH MTV PANGRIM NEOTEX,Phường Nông Trang - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7894,Phường Nông Trang,4
+25040,Bệnh viện Mắt tỉnh Phú Thọ,Phường Tân Dân - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7897,Phường Tân Dân,2
+25049,Trạm y tế phường Nông Trang,Phường Nông Trang - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7894,Phường Nông Trang,4
+25001,Bệnh viện đa khoa tỉnh Phú Thọ,Phường Tân Dân TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7897,Phường Tân Dân,2
+25051,Trạm y tế phường Gia Cẩm,Phường Gia Cẩm - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7900,Phường Gia Cẩm,4
+25044,Phòng khám đa khoa - Trung tâm kiểm soát bệnh tật tỉnh Phú Thọ,Phường Gia Cẩm Thanh Phố Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7900,Phường Gia Cẩm,2
+25052,Trạm y tế phường Tiên Cát,Phường Tiên Cát - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7903,Phường Tiên Cát,4
+25018,Ban Bảo vệ chăm sóc sức khỏe cán bộ tỉnh,Phường Tiên Cát - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7903,Phường Tiên Cát,2
+25054,Trạm y tế phường Thanh Miếu,Phường Thanh Miếu - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7909,Phường Thanh Miếu,4
+25053,Trạm y tế phường Thọ Sơn,Phường Thọ Sơn - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7906,Phường Thọ Sơn,4
+25056,Trạm y tế phường Bến Gót,Phường Bến Gót - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7915,Phường Bến Gót,4
+25057,Trạm y tế xã Vân Phú,Phường Vân Phú - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7918,Phường Vân Phú,4
+25059,Trạm y tế xã Thụy Vân,Xã Thụy Vân - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7924,Xã Thụy Vân,4
+25060,Trạm y tế phường Minh Phương,Phường Minh Phương - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7927,Phường Minh Phương,4
+25061,Trạm y tế xã Trưng Vương,Xã Trưng Vương - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7930,Xã Trưng Vương,4
+25064,Trạm y tế phường Trường Thịnh,Phường Trường Thịnh - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7939,Phường Trường Thịnh,4
+25065,Trạm y tế phường Hùng Vương,Phường Hùng Vương - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7942,Phường Hùng Vương,4
+25066,Trạm y tế phường Phong Châu,Phường Phong Châu - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7945,Phường Phong Châu,4
+25067,Trạm y tế phường Âu Cơ,Phường Âu Cơ - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7948,Phường Âu Cơ,4
+25069,Trạm y tế xã Phú Hộ,Xã Phú Hộ - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7954,Xã Phú Hộ,4
+25070,Trạm y tế xã Văn Lung,Xã Văn Lung - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7957,Xã Văn Lung,4
+25017,Bệnh viện Xây dựng Việt Trì,Phường Thọ Sơn - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7906,Phường Thọ Sơn,2
+25071,Trạm y tế xã Thanh Minh,Xã Thanh Minh - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7960,Xã Thanh Minh,4
+25075,Trạm y tế xã Đông Khê,Xã Đông Khê - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7972,Xã Đông Khê,4
+25074,Trạm y tế thị trấn Đoan Hùng,Thị trấn Đoan Hùng - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7969,Thị trấn Đoan Hùng,4
+25077,Trạm y tế xã Hùng Quan,Xã Hùng Quan - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7978,Xã Hùng Quan,4
+25076,Trạm y tế xã Nghinh Xuyên,Xã Nghinh Xuyên - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7975,Xã Nghinh Xuyên,4
+25078,Trạm y tế xã Bằng Luân,Xã Bằng Luân - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7981,Xã Bằng Luân,4
+25079,Trạm y tế xã Vân Du,Xã Vân Du - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7984,Xã Vân Du,4
+25080,Trạm y tế xã Phương Trung,Xã Phương Trung - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7987,Xã Phương Trung,4
+25082,Trạm y tế xã Minh Lương,Xã Minh Lương - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7993,Xã Minh Lương,4
+25081,Trạm y tế xã Quế Lâm,Xã Quế Lâm - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7990,Xã Quế Lâm,4
+25329,Bệnh viện đa khoa Tư nhân Hùng Vương,Xã Chí Đám - Đoan Hùng - Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7999,Xã Chí Đám,3
+25084,Trạm y tế Xã Chí Đám,Xã Chí Đám - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7999,Xã Chí Đám,4
+25083,Trạm y tế xã Bằng Doãn,Xã Bằng Doãn - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,7996,Xã Bằng Doãn,4
+25085,Trạm y tế xã Phong Phú,Xã Phong Phú - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8002,Xã Phong Phú,4
+25087,Trạm y tế xã Ngọc Quan,Xã Ngọc Quan - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8008,Xã Ngọc Quan,4
+25088,Trạm y tế xã Hữu Đô,Xã Hữu Đô - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8011,Xã Hữu Đô,4
+25086,Trạm y tế xã Phúc Lai,Xã Phúc Lai - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8005,Xã Phúc Lai,4
+25090,Trạm y tế xã Sóc Đăng,Xã Sóc Đăng - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8017,Xã Sóc Đăng,4
+25091,Trạm y tế xã Phú Thứ,Xã Phú Thứ - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8020,Xã Phú Thứ,4
+25348,Phòng khám đa khoa Khu Công nghiệp,"Khu công nghiệp Thụy Vân, Việt Trì, Phú Thọ",25,Phú Thọ,0,,0,,3
+25095,Trạm y tế xã Vụ Quang,Xã Vụ Quang - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8032,Xã Vụ Quang,4
+25093,Trạm y tế xã Yên Kiện,Xã Yên Kiện - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8026,Xã Yên Kiện,4
+25097,Trạm y tế xã Tiêu Sơn,Xã Tiêu Sơn - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8038,Xã Tiêu Sơn,4
+25098,Trạm y tế Xã Minh Tiến,Xã Minh Tiến - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8041,Xã Minh Tiến,4
+25099,Trạm y tế xã Minh Phú,Xã Minh Phú - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8044,Xã Minh Phú,4
+25094,Trạm y tế xã Hùng Long,Xã Hùng Long - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8029,Xã Hùng Long,4
+25101,Trạm y tế xã Ca Đình,Xã Ca Đình - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8050,Xã Ca Đình,4
+25106,Trạm y tế xã Hà Lương,Xã Hà Lương - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8065,Xã Hà Lương,4
+25107,Trạm y tế xã Lệnh Khanh,Xã Lệnh Khanh - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8068,Xã Lệnh Khanh,4
+25111,Trạm y tế xã Hiền Lương,Xã Hiền Lương - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8080,Xã Hiền Lương,4
+25113,Trạm y tế xã Lâm Lợi,Xã Lâm Lợi - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8086,Xã Lâm Lợi,4
+25112,Trạm y tế xã Động Lâm,Xã Động Lâm - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8083,Xã Động Lâm,4
+25109,Trạm y tế xã Liên Phương,Xã Liên Phương - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8074,Xã Liên Phương,4
+25110,Trạm y tế xã Đan Thượng,Xã Đan Thượng - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8077,Xã Đan Thượng,4
+25115,Trạm y tế Xã Gia Điền,Xã Gia Điền - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8092,Xã Gia Điền,4
+25114,Trạm y tế xã Phương Viên,Xã Phương Viên - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8089,Xã Phương Viên,4
+25117,Trạm y tế xã Quân Khê,Xã Quân Khê - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8098,Xã Quân Khê,4
+25119,Trạm y tế xã Hương Xạ,Xã Hương Xạ - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8104,Xã Hương Xạ,4
+25096,Trạm y tế xã Vân Đồn,Xã Vân Đồn - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8035,Xã Vân Đồn,4
+25124,Trạm y tế xã Minh Hạc,Xã Minh Hạc - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8119,Xã Minh Hạc,4
+25120,Trạm y tế Xã Cáo Điền,Xã Cáo Điền - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8107,Xã Cáo Điền,4
+25125,Trạm y tế xã Lang Sơn,Xã Lang Sơn - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8122,Xã Lang Sơn,4
+25126,Trạm y tế xã Bằng Giã,Xã Bằng Giã - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8125,Xã Bằng Giã,4
+25127,Trạm y tế xã Yên Luật,Xã Yên Luật - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8128,Xã Yên Luật,4
+25128,Trạm y tế xã Vô Tranh,Xã Vô Tranh - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8131,Xã Vô Tranh,4
+25131,Trạm y tế xã Minh Côi,Xã Minh Côi - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8140,Xã Minh Côi,4
+25132,Trạm y tế xã Vĩnh Chân,Xã Vĩnh Chân - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8143,Xã Vĩnh Chân,4
+25133,Trạm y tế xã Mai Tùng,Xã Mai Tùng - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8146,Xã Mai Tùng,4
+25123,Trạm y tế xã Chuế Lưu,Xã Chuế Lưu - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8116,Xã Chuế Lưu,4
+25135,Trạm y tế thị trấn Thanh Ba,Thị trấn Thanh Ba - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8152,Thị trấn Thanh Ba,4
+25136,Trạm y tế xã Thanh Vân,Xã Thanh Vân - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8155,Xã Thanh Vân,4
+25137,Trạm y tế xã Đông Lĩnh,Xã Đông Lĩnh - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8158,Xã Đông Lĩnh,4
+25122,Trạm y tế xã Yên Kỳ,Xã Yên Kỳ - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8113,Xã Yên Kỳ,4
+25140,Trạm y tế xã Thái Ninh,Xã Thái Ninh - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8167,Xã Thái Ninh,4
+25141,Trạm y tế xã Đồng Xuân,Xã Đồng Xuân - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8170,Xã Đồng Xuân,4
+25146,Trạm y tế xã Vũ Yển,Xã Vũ Yển - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8185,Xã Vũ Yển,4
+25150,Trạm y tế xã Khải Xuân,Xã Khải Xuân - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8197,Xã Khải Xuân,4
+25151,Trạm y tế xã Mạn Lạn,Xã Mạn Lạn - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8200,Xã Mạn Lạn,4
+25152,Trạm y tế xã Thanh Xá,Xã Thanh Xá - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8203,Xã Thanh Xá,4
+25156,Trạm y tế xã Sơn Cương,Xã Sơn Cương - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8215,Xã Sơn Cương,4
+25153,Trạm y tế xã Chí Tiên,Xã Chí Tiên - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8206,Xã Chí Tiên,4
+25154,Trạm y tế xã Đông Thành,Xã Đông Thành - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8209,Xã Đông Thành,4
+25159,Trạm y tế xã Đỗ Xuyên,Xã Đỗ Xuyên - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8224,Xã Đỗ Xuyên,4
+25160,Trạm y tế xã Lương Lỗ,Xã Lương Lỗ - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8227,Xã Lương Lỗ,4
+25161,Trạm y tế thị trấn Phong Châu,Thị trấn Phong Châu - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8230,Thị trấn Phong Châu,4
+25163,Trạm y tế xã Liên Hoa,Xã Liên Hoa - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8236,Xã Liên Hoa,4
+25165,Trạm y tế xã Trị Quận,Xã Trị Quận - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8242,Xã Trị Quận,4
+25166,Trạm y tế Xã Trung Giáp,Xã Trung Giáp - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8245,Xã Trung Giáp,4
+25167,Trạm y tế xã Tiên Phú,Xã Tiên Phú - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8248,Xã Tiên Phú,4
+25169,Trạm y tế xã Bảo Thanh,Xã Bảo Thanh - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8254,Xã Bảo Thanh,4
+25170,Trạm y tế xã Phú Lộc,Xã Phú Lộc - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8257,Xã Phú Lộc,4
+25171,Trạm y tế xã Gia Thanh,Xã Gia Thanh - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8260,Xã Gia Thanh,4
+25332,Trạm y tế xã Lệ Mỹ,Khu 2 - xã Lệ Mỹ - huyện Phù Ninh - tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8234,Xã Lệ Mỹ,4
+25179,Trạm y tế xã Vĩnh Phú,Xã Vĩnh Phú - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8284,Xã Vĩnh Phú,4
+25180,Trạm y tế xã Hùng Lô,Xã Hùng Lô - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,8287,Xã Hùng Lô,4
+25158,Trạm y tế xã Đỗ Sơn,Xã Đỗ Sơn - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8221,Xã Đỗ Sơn,4
+25162,Trạm y tế xã Phú Mỹ,Xã Phú Mỹ - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8233,Xã Phú Mỹ,4
+25181,Trạm y tế Thị trấn Yên Lập,Thị trấn Yên Lập - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8290,Thị trấn Yên Lập,4
+25183,Trạm y tế xã Mỹ Lương,Xã Mỹ Lương - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8296,Xã Mỹ Lương,4
+25184,Trạm y tế xã Lương Sơn,Xã Lương Sơn - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8299,Xã Lương Sơn,4
+25189,Trạm y tế xã Hưng Long,Xã Hưng Long - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8314,Xã Hưng Long,4
+25190,Trạm y tế xã Nga Hoàng,Xã Nga Hoàng - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8317,Xã Nga Hoàng,4
+25191,Trạm y tế xã Đồng Lạc,Xã Đồng Lạc - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8320,Xã Đồng Lạc,4
+25192,Trạm y tế xã Thượng Long,Xã Thượng Long - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8323,Xã Thượng Long,4
+25193,Trạm y tế xã Đồng Thịnh,Xã Đồng Thịnh-Huyện Yên Lập-Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8326,Xã Đồng Thịnh,4
+25194,Trạm y tế xã Phúc Khánh,Xã Phúc Khánh - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8329,Xã Phúc Khánh,4
+25186,Trạm y tế xã Xuân Viên,Xã Xuân Viên - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8305,Xã Xuân Viên,4
+25195,Trạm y tế xã Minh Hòa,Xã Minh Hòa - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8332,Xã Minh Hòa,4
+25197,Trạm y tế xã Ngọc Đồng,Xã Ngọc Đồng - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8338,Xã Ngọc Đồng,4
+25199,Trạm y tế xã Tiên Lương,Xã Tiên Lương - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8344,Xã Tiên Lương,4
+25198,Trạm y tế thị trấn Sông Thao,Thị trấn Sông Thao - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8341,Thị trấn Sông Thao,4
+25203,Trạm y tế xã Phượng Vĩ,Xã Phượng Vĩ - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8356,Xã Phượng Vĩ,4
+25201,Trạm y tế xã Ngô Xá,Xã Ngô Xá - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8350,Xã Ngô Xá,4
+25185,Trạm y tế xã Xuân An,Xã Xuân An - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8302,Xã Xuân An,4
+25204,Trạm y tế xã Đồng Cam,Xã Đồng Cam - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8359,Xã Đồng Cam,4
+25205,Trạm y tế xã Thụy Liễu,Xã Thụy Liễu - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8362,Xã Thụy Liễu,4
+25207,Trạm y tế xã Sơn Nga,Xã Sơn Nga - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8368,Xã Sơn Nga,4
+25212,Trạm y tế xã Cấp Dẫn,Xã Cấp Dẫn - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8383,Xã Cấp Dẫn,4
+25210,Trạm y tế xã Tam Sơn,Xã Tam Sơn - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8377,Xã Tam Sơn,4
+25214,Trạm y tế xã Xương Thịnh,Xã Xương Thịnh - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8389,Xã Xương Thịnh,4
+25213,Trạm y tế xã Thanh Nga,Xã Thanh Nga - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8386,Xã Thanh Nga,4
+25211,Trạm y tế xã Văn Bán,Xã Văn Bán - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8380,Xã Văn Bán,4
+25219,Trạm y tế xã Tạ Xá,Khu 9 - Xã Tạ Xá - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8404,Xã Tạ Xá,4
+25220,Trạm y tế xã Phú Lạc,Xã Phú Lạc - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8407,Xã Phú Lạc,4
+25217,Trạm y tế xã Yên Tập,Xã Yên Tập - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8398,Xã Yên Tập,4
+25221,Trạm y tế xã Tình Cương,Xã Tình Cương - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8410,Xã Tình Cương,4
+25206,Trạm y tế xã Phùng Xá,Xã Phùng Xá - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8365,Xã Phùng Xá,4
+25223,Trạm y tế xã Hiền Đa,Xã Hiền Đa - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8416,Xã Hiền Đa,4
+25229,Trạm y tế Thị trấn Hưng Hoá,Thị trấn Hưng Hoá - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8434,Thị trấn Hưng Hoá,4
+25225,Trạm y tế xã Yên Dưỡng,Xã Yên Dưỡng - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8422,Xã Yên Dưỡng,4
+25228,Trạm y tế xã Đồng Lương,Xã Đồng Lương - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8431,Xã Đồng Lương,4
+25227,Trạm y tế xã Điêu Lương,Xã Điêu Lương - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8428,Xã Điêu Lương,4
+25234,Trạm y tế xã Xuân Quang,Xã Xuân Quang - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8449,Xã Xuân Quang,4
+25230,Trạm y tế xã Vực Trường,Xã Vực Trường - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8437,Xã Vực Trường,4
+25232,Trạm y tế xã Hương Nha,Xã Hương Nha - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8443,Xã Hương Nha,4
+25235,Trạm y tế xã Tứ Mỹ,Xã Tứ Mỹ - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8452,Xã Tứ Mỹ,4
+25231,Trạm y tế xã Hiền Quan,Xã Hiền Quan - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8440,Xã Hiền Quan,4
+25236,Trạm y tế xã Văn Lương,Xã Văn Lương - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8455,Xã Văn Lương,4
+25237,Trạm y tế xã Hùng Đô,Xã Hùng Đô - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8458,Xã Hùng Đô,4
+25208,Trạm y tế xã Sai Nga,Xã Sai Nga - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8371,Xã Sai Nga,4
+25238,Trạm y tế xã Phương Thịnh,Xã Phương Thịnh - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8461,Xã Phương Thịnh,4
+25240,Trạm y tế xã Cổ Tiết,Xã Cổ Tiết - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8467,Xã Cổ Tiết,4
+25239,Trạm y tế xã Tam Cường,Xã Tam Cường - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8464,Xã Tam Cường,4
+25243,Trạm y tế xã Tề Lễ,Xã Tề Lễ - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8476,Xã Tề Lễ,4
+25246,Trạm y tế xã Hồng Đà,Xã Hồng Đà - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8485,Xã Hồng Đà,4
+25249,Trạm y tế thị trấn Lâm Thao,Thị trấn Lâm Thao - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8494,Thị trấn Lâm Thao,4
+25248,Trạm y tế xã Thượng Nông,Xã Thượng Nông - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8491,Xã Thượng Nông,4
+25250,Trạm y tế xã Tiên Kiên,Xã Tiên Kiên - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8497,Xã Tiên Kiên,4
+25265,Trạm y tế thị Trấn Hùng Sơn,Thị Trấn Hùng Sơn - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8498,Thị trấn Hùng Sơn,4
+25247,Trạm y tế xã Dậu Dương,Xã Dậu Dương - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8488,Xã Dậu Dương,4
+25251,Trạm y tế xã Xuân Lũng,Xã Xuân Lũng - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8500,Xã Xuân Lũng,4
+25258,Trạm y tế xã Hợp Hải,Xã Hợp Hải - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8521,Xã Hợp Hải,4
+25262,Trạm y tế xã Vĩnh Lại,Xã Vĩnh Lại - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8533,Xã Vĩnh Lại,4
+25266,Trạm y tế thị trấn Thanh Sơn,Thị trấn Thanh Sơn - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8542,Thị trấn Thanh Sơn,4
+25252,Trạm y tế xã Hy Cương,Xã Hy Cương - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,8503,Xã Hy Cương,4
+25264,Trạm y tế xã Bản Nguyên,Xã Bản Nguyên - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8539,Xã Bản Nguyên,4
+25254,Trạm y tế xã Xuân Huy,Xã Xuân Huy - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8509,Xã Xuân Huy,4
+25268,Trạm y tế xã Thạch Kiệt,Xã Thạch Kiệt - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8548,Xã Thạch Kiệt,4
+25269,Trạm y tế xã Thu Ngạc,Xã Thu Ngạc - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8551,Xã Thu Ngạc,4
+25279,Trạm y tế xã Thục Luyện,Xã Thục Luyện - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8581,Xã Thục Luyện,4
+25272,Trạm y tế xã Lai Đồng,Xã Lai Đồng - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8560,Xã Lai Đồng,4
+25273,Trạm y tế xã Sơn Hùng,Xã Sơn Hùng - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8563,Xã Sơn Hùng,4
+25309,Trạm y tế xã Tân Phương,Xã Tân Phương - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8671,Xã Tân Phương,4
+25316,Trạm y tế xã Trung Thịnh,Xã Trung Thịnh - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8692,Xã Trung Thịnh,4
+25317,Trạm y tế Xã Trung Nghĩa,Xã Trung Nghĩa - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8695,Xã Trung Nghĩa,4
+25318,Trạm y tế xã Phượng Mao,Xã Phượng Mao - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8698,Xã Phượng Mao,4
+25000,Sở Y Tế tỉnh Phú Thọ,...,25,Phú Thọ,0,,0,,2
+25050,Trạm y tế phường Tân Dân,Phường Tân Dân - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7897,Phường Tân Dân,4
+25328,Phòng khám đa khoa FUSHICO - Trường Cao đẳng  Y Dược Phú Thọ,Phường Gia Cẩm - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7900,Phường Gia Cẩm,3
+25048,Trạm y tế phường Vân Cơ,Phường Vân Cơ - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7891,Phường Vân Cơ,4
+25326,Bệnh xá trường Đại học Hùng Vương,Phường Vân Phú - TP. Việt Trì - Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7918,Phường Vân Phú,4
+25327,Bệnh viện Công an tỉnh Phú Thọ,Phường Tân Dân - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7897,Phường Tân Dân,3
+25033,Trạm Y tế công ty Cổ phần Đường sắt Vĩnh Phú,Phường Bến Gót - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7915,Phường Bến Gót,4
+25062,Trạm y tế xã Minh Nông,Phường Minh Nông - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7933,Phường Minh Nông,4
+25089,Trạm y tế xã Đại Nghĩa,Thôn 2 -  Xã Đại Nghĩa - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8014,Xã Đại Nghĩa,4
+25142,Trạm y tế xã Năng Yên,Xã Năng Yên - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8173,Xã Năng Yên,4
+25144,Trạm y tế xã Ninh Dân,Xã Ninh Dân - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8179,Xã Ninh Dân,4
+25143,Trạm y tế xã Yển Khê,Xã Yển Khê - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8176,Xã Yển Khê,4
+25145,Trạm y tế xã Quảng Nạp,Xã Quảng Nạp - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8182,Xã Quảng Nạp,4
+25147,Trạm y tế xã Yên Nội,Xã Yên Nội - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8188,Xã Yên Nội,4
+25148,Trạm y tế xã Phương Lĩnh,Xã Phương Lĩnh - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8191,Xã Phương Lĩnh,4
+25149,Trạm y tế xã Võ Lao,Xã Võ Lao - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8194,Xã Võ Lao,4
+25002,Bệnh viên đa khoa thị xã Phú Thọ,Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,0,,3
+25073,Trạm y tế phường Thanh Vinh,Xã Thanh Vinh-Thị xã Phú Thọ-Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7966,Phường Thanh Vinh,4
+25174,Trạm y tế xã Bình Bộ,Xã Bình Bộ - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8269,Xã Bình Bộ,4
+25175,Trạm y tế xã An Đạo,Xã An Đạo - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8272,Xã An Đạo,4
+25068,Trạm y tế xã Hà Lộc,Xã Hà Lộc - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7951,Xã Hà Lộc,4
+25055,Trạm y tế phường Bạch Hạc,Phường Bạch Hạc - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7912,Phường Bạch Hạc,4
+25102,Trạm y tế thị trấn Hạ Hoà,Thị trấn Hạ Hoà - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8053,Thị trấn Hạ Hoà,4
+25092,Trạm y tế xã Tây Cốc,Xã Tây Cốc - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8023,Xã Tây Cốc,4
+25118,Trạm y tế xã Y Sơn,Xã Y Sơn - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8101,Xã Y Sơn,4
+25155,Trạm y tế xã Hoàng Cương,Xã Hoàng Cương - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8212,Xã Hoàng Cương,4
+25168,Trạm y tế xã Hạ Giáp,Xã Hạ Giáp - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8251,Xã Hạ Giáp,4
+25100,Trạm y tế xã Chân Mộng,Xã Chân Mộng - Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,8047,Xã Chân Mộng,4
+25108,Trạm y tế xã Phụ Khánh,Xã Phụ Khánh - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8071,Xã Phụ Khánh,4
+25134,Trạm y tế xã Vụ Cầu,Xã Vụ Cầu - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8149,Xã Vụ Cầu,4
+25014,Trung tâm y tế huyện Hạ Hoà,Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,0,,3
+25015,Trung tâm y tế huyện Đoan Hùng,Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,230,Huyện Đoan Hùng,0,,3
+25013,Trung tâm y tế huyện Thanh Ba,Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,0,,3
+25012,Trung tâm y tế huyện Yên Lập,Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,0,,3
+25010,Trung tâm y tế huyện Thanh Sơn,Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,0,,3
+25024,Phòng khám đa khoa Công ty cổ phần Supe Phốt phát và Hóa chất Lâm Thao,Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,0,,3
+25116,Trạm y tế xã Ấm Hạ,Xã ấm Hạ - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8095,Xã Ấm Hạ,4
+25173,Trạm y tế xã Phú Nham,Xã Phú Nham - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8266,Xã Phú Nham,4
+25176,Trạm y tế xã Tử Đà,Xã Tử Đà - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8275,Xã Tử Đà,4
+25178,Trạm y tế xã Kim Đức,Xã Kim Đức - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,8281,Xã Kim Đức,4
+25224,Trạm y tế xã Văn Khúc,Xã Văn Khúc - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8419,Xã Văn Khúc,4
+25182,Trạm y tế xã Mỹ Lung,Xã Mỹ Lung - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8293,Xã Mỹ Lung,4
+25009,Trung tâm y tế huyện Tam Nông,Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,0,,3
+25058,Trạm y tế xã Phượng Lâu,Xã Phượng Lâu - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7921,Xã Phượng Lâu,4
+25006,Bệnh viện Phổi tỉnh Phú Thọ,Thị Xã Phú Thọ - Tỉnh phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,0,,2
+25177,Trạm y tế xã Phù Ninh,Xã Phù Ninh - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8278,Xã Phù Ninh,4
+25200,Trạm y tế xã Tuy Lộc,Xã Tuy Lộc - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8347,Xã Tuy Lộc,4
+25233,Trạm y tế xã Thanh Uyên,Xã Thanh Uyên - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8446,Xã Thanh Uyên,4
+25226,Trạm y tế xã Cát Trù,Xã Cát Trù - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8425,Xã Cát Trù,4
+25267,Trạm y tế xã Thu Cúc,Xã Thu Cúc - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8545,Xã Thu Cúc,4
+25275,Trạm y tế xã Mỹ Thuận,Xã Mỹ Thuận - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8569,Xã Mỹ Thuận,4
+25277,Trạm y tế xã Giáp Lai,Xã Giáp Lai - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8575,Xã Giáp Lai,4
+25278,Trạm y tế xã Tân Sơn,Xã Tân Sơn - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8578,Xã Tân Sơn,4
+25121,Trạm y tế xã Xuân Áng,Xã Xuân áng - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8110,Xã Xuân Áng,4
+25270,Trạm y tế xã Kiệt Sơn,Xã Kiệt Sơn - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8554,Xã Kiệt Sơn,4
+25282,Trạm y tế xã Xuân Đài,Xã Xuân Đài - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8590,Xã Xuân Đài,4
+25287,Trạm y tế xã Tất Thắng,Xã Tất Thắng - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8605,Xã Tất Thắng,4
+25291,Trạm y tế xã Kim Thượng,Xã Kim Thượng - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8617,Xã Kim Thượng,4
+25292,Trạm y tế xã Tam Thanh,Xã Tam Thanh - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8620,Xã Tam Thanh,4
+25294,Trạm y tế xã Vinh Tiền,Xã Vinh Tiền - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8626,Xã Vinh Tiền,4
+25290,Trạm y tế xã Cự Đồng,Xã Cự Đồng - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8614,Xã Cự Đồng,4
+25297,Trạm y tế xã Khả Cửu,Xã Khả Cửu - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8635,Xã Khả Cửu,4
+25004,Trung tâm y tế huyện Lâm Thao,Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,0,,3
+25011,Trung tâm y tế huyện Cẩm Khê,Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,0,,3
+25129,Trạm y tế xã Văn Lang,Xã Văn Lang - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8134,Xã Văn Lang,4
+25130,Trạm y tế xã Chính Công,Xã Chính Công - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8137,Xã Chính Công,4
+25138,Trạm y tế xã Đại An,Khu 4 - Xã Đại An - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8161,Xã Đại An,4
+25139,Trạm y tế xã Hanh Cù,Xã Hanh Cù - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8164,Xã Hanh Cù,4
+25164,Trạm y tế xã Trạm Thản,Xã Trạm Thản - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8239,Xã Trạm Thản,4
+25296,Trạm y tế xã Hương Cần,khu Nội Xén -Xã Hương Cần - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8632,Xã Hương Cần,4
+25301,Trạm y tế xã Yên Lương,Xã Yên Lương - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8647,Xã Yên Lương,4
+25303,Trạm y tế xã Lương Nha,Xã Lương Nha - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8653,Xã Lương Nha,4
+25285,Trạm y tế xã Xuân Sơn,Xã Xuân Sơn - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8599,Xã Xuân Sơn,4
+25289,Trạm y tế xã Văn Miếu,Xã Văn Miếu - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8611,Xã Văn Miếu,4
+25307,Trạm y tế xã Thạch Đồng,Xã Thạch Đồng - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8665,Xã Thạch Đồng,4
+25311,Trạm y tế xã Sơn Thủy,Xã Sơn Thủy - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8677,Xã Sơn Thủy,4
+25333,Trung tâm Y tế thành phố Việt Trì,TP Việt Trì - Tỉnh Phúc Thọ.,25,Phú Thọ,227,Thành phố Việt Trì,0,,3
+25105,Trạm y tế xã Đan Hà,Xã Đan Hà - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8062,Xã Đan Hà,4
+25202,Trạm y tế xã Phương Xá,Xã Phương Xá - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8353,Xã Phương Xá,4
+25216,Trạm y tế xã Sơn Tình,Xã Sơn Tình - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8395,Xã Sơn Tình,4
+25215,Trạm y tế xã Phú Khê,Xã Phú Khê - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8392,Xã Phú Khê,4
+25218,Trạm y tế xã Hương Lung,Xã Hương Lung - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8401,Xã Hương Lung,4
+25261,Trạm y tế xã Kinh Kệ,Xã Kinh Kệ - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8530,Xã Kinh Kệ,4
+25259,Trạm y tế xã Sơn Dương,Xã Sơn Dương - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8524,Xã Sơn Dương,4
+25242,Trạm y tế xã Hương Nộn,Xã Hương Nộn - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8473,Xã Hương Nộn,4
+25276,Trạm y tế xã Địch Quả,Xã Địch Quả - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8572,Xã Địch Quả,4
+25271,Trạm y tế xã Đồng Sơn,Xã Đồng Sơn - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8557,Xã Đồng Sơn,4
+25313,Trạm y tế xã Đoan Hạ,Xã Đoan Hạ - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8683,Xã Đoan Hạ,4
+25305,Trạm y tế xã Tinh Nhuệ,Xã Tinh Nhuệ - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8659,Xã Tinh Nhuệ,4
+25314,Trạm y tế xã Đồng Luận,Xã Đồng Luận - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8686,Xã Đồng Luận,4
+25045,Trung tâm y tế huyện Tân Sơn,Huyện Tân Sơn - tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,0,,3
+25063,Trạm y tế xã Sông Lô,Xã Sông Lô - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7936,Xã Sông Lô,4
+25209,Trạm y tế xã Tùng Khê,Xã Tùng Khê - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8374,Xã Tùng Khê,4
+25241,Trạm y tế xã Quang Húc,Xã Quang Húc - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8470,Xã Quang Húc,4
+25281,Trạm y tế xã Thạch Khoán,Xã Thạch Khoán - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8587,Xã Thạch Khoán,4
+25288,Trạm y tế xã Long Cốc,Xã Long Cốc - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8608,Xã Long Cốc,4
+25319,Trạm y tế xã Yến Mao,Xã Yến Mao - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8701,Xã Yến Mao,4
+25310,Trạm y tế thị trấn Thanh Thủy,thị trấn Thanh Thủy - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8674,Thị trấn Thanh Thủy,4
+25315,Trạm y tế xã Hoàng Xá,Xã Hoàng Xá - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8689,Xã Hoàng Xá,4
+25005,Trung tâm y tế huyện Thanh Thủy,Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,0,,3
+25103,Trạm y tế xã Đại Phạm,Xã Đại Phạm - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8056,Xã Đại Phạm,4
+25284,Trạm y tế xã Văn Luông,Xã Văn Luông - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8596,Xã Văn Luông,4
+25293,Trạm y tế xã Thắng Sơn,Xã Thắng Sơn - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8623,Xã Thắng Sơn,4
+25046,Trạm y tế xã Tân Đức,Khu 4 - xã Tân Đức - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,9622,Xã Tân Đức,4
+25008,Trung tâm y tế huyện Phù Ninh,Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,0,,3
+25187,Trạm y tế xã Xuân Thủy,Xã Xuân Thủy - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8308,Xã Xuân Thủy,4
+25196,Trạm y tế xã Ngọc Lập,Xã Ngọc Lập - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8335,Xã Ngọc Lập,4
+25222,Trạm y tế xã Chương Xá,Xã Chương Xá - Huyện Cẩm Khê - Tỉnh Phú Thọ,25,Phú Thọ,235,Huyện Cẩm Khê,8413,Xã Chương Xá,4
+25256,Trạm y tế xã Thanh Đình,Xã Thanh Đình - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,8515,Xã Thanh Đình,4
+25253,Trạm y tế xã Chu Hóa,Xã Chu Hóa - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,8506,Xã Chu Hóa,4
+25244,Trạm y tế xã Thọ Văn,Xã Thọ Văn - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8479,Xã Thọ Văn,4
+25255,Trạm y tế xã Thạch Sơn,Xã Thạch Sơn - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8512,Xã Thạch Sơn,4
+25274,Trạm y tế xã Tân Phú,Xã Tân Phú - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8566,Xã Tân Phú,4
+25280,Trạm y tế xã Võ Miếu,Xã Võ Miếu - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8584,Xã Võ Miếu,4
+25295,Trạm y tế xã Tân Minh,Xã Tân Minh - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8629,Xã Tân Minh,4
+25302,Trạm y tế xã Thượng Cửu,Xã Thượng Cửu - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8650,Xã Thượng Cửu,4
+25308,Trạm y tế xã Xuân Lộc,Xã Xuân Lộc - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8668,Xã Xuân Lộc,4
+25306,Trạm y tế xã Đào Xá,Xã Đào Xá - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8662,Xã Đào Xá,4
+25286,Trạm y tế xã Cự Thắng,Xã Cự Thắng - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8602,Xã Cự Thắng,4
+25312,Trạm y tế xã Bảo Yên,Xã Bảo Yên - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8680,Xã Bảo Yên,4
+25003,Bệnh viện Y Dược cổ truyền và Phục hồi chức năng tỉnh Phú Thọ,Phường Gia Cẩm Thanh Phố Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,227,Thành phố Việt Trì,7900,Phường Gia Cẩm,2
+25346,Trạm y tế xã Vân Lĩnh,Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8156,Xã Vân Lĩnh,4
+25304,Trạm y tế xã Yên Sơn,Xã Yên Sơn - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8656,Xã Yên Sơn,4
+25072,Trạm y tế xã Hà Thạch,khu Phú Hưng - Xã Hà Thạch - Thị xã Phú Thọ - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,7963,Xã Hà Thạch,4
+25283,Trạm y tế xã Minh Đài,Xã Minh Đài - Huyện Tân Sơn - Tỉnh Phú Thọ,25,Phú Thọ,240,Huyện Tân Sơn,8593,Xã Minh Đài,4
+25298,Trạm y tế xã Đông Cửu,Xã Đông Cửu - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8638,Xã Đông Cửu,4
+25104,Trạm y tế xã Hậu Bổng,Xã Hậu Bổng - Huyện Hạ Hoà - Tỉnh Phú Thọ,25,Phú Thọ,231,Huyện Hạ Hoà,8059,Xã Hậu Bổng,4
+25300,Trạm y tế xã Yên Lãng,Xã Yên Lãng - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8644,Xã Yên Lãng,4
+25172,Trạm y tế xã Tiên Du,Xã Tiên Du - Huyện Phù Ninh - Tỉnh Phú Thọ,25,Phú Thọ,233,Huyện Phù Ninh,8263,Xã Tiên Du,4
+25245,Trạm y tế xã Dị Nậu,Xã Dị Nậu - Huyện Tam Nông - Tỉnh Phú Thọ,25,Phú Thọ,236,Huyện Tam Nông,8482,Xã Dị Nậu,4
+25157,Trạm y tế xã Thanh Hà,Xã Thanh Hà - Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,8218,Xã Thanh Hà,4
+25257,Trạm y tế xã Sơn Vi,Xã Sơn Vi - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8518,Xã Sơn Vi,4
+25320,Trạm y tế xã Tu Vũ,Xã Tu Vũ - Huyện Thanh Thuỷ - Tỉnh Phú Thọ,25,Phú Thọ,239,Huyện Thanh Thuỷ,8704,Xã Tu Vũ,4
+25188,Trạm y tế Xã Trung Sơn,Xã Trung Sơn - Huyện Yên Lập - Tỉnh Phú Thọ,25,Phú Thọ,234,Huyện Yên Lập,8311,Xã Trung Sơn,4
+25260,Trạm y tế xã Cao Xá,Xã Cao Xá - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8527,Xã Cao Xá,4
+25263,Trạm y tế xã Tứ Xã,Xã Tứ Xã - Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8536,Xã Tứ Xã,4
+25299,Trạm y tế xã Tân Lập,Xã Tân Lập - Huyện Thanh Sơn - Tỉnh Phú Thọ,25,Phú Thọ,238,Huyện Thanh Sơn,8641,Xã Tân Lập,4
+25007,Bệnh viện Tâm thần,Thị Xã Phú Thọ - Tỉnh phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,0,,2
+25016,Trung tâm CSSK Sinh sản,Phường Vân Cơ-Thành phố Việt Trì-Tỉnh Phú Thọ,25,Phú Thọ,0,,0,,2
+25025,Bệnh viện Chè Sông Lô,Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,0,,0,,3
+25019,Bệnh viện điều dưỡng và PHCN,Phường Nông Trang - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,0,,2
+25023,Bệnh xá BCH Quân sự tỉnh,,25,Phú Thọ,0,,0,,4
+25350,"Phòng khám, điều trị HIV/AIDS","thành phố Việt Trì, tỉnh Phú Thọ",25,Phú Thọ,0,,0,,3
+25026,Phòng khám đa khoa Công ty  ăc quy pin Vĩnh Phú,,25,Phú Thọ,0,,0,,3
+25323,Phòng khám đa khoa Châu Phong,,25,Phú Thọ,0,,0,,4
+25324,Phòng khám đa khoa Thanh Hải,,25,Phú Thọ,0,,0,,4
+25325,Phòng khám Sao Đỏ,,25,Phú Thọ,0,,0,,4
+25022,Phòng khám đa khoa Âu Cơ,,25,Phú Thọ,0,,0,,3
+25330,Phòng khám đa khoa Hà Nội 109,Xã Cát Trù - Cẩm Khê  - Phú Thọ,25,Phú Thọ,0,,0,,3
+25331,Phòng khám đa khoa 103,Thị Trấn Sông Thao - Cẩm Khê - Phú Thọ,25,Phú Thọ,0,,0,,3
+25343,Trung tâm y tế huyện Tam Nông,Huyện Tam Nông - Tỉnh Việt Trì,25,Phú Thọ,236,Huyện Tam Nông,0,,4
+25344,Trung tâm y tế huyện Lâm Thao,Huyện Lâm Thao - Tỉnh Việt Trì,25,Phú Thọ,237,Huyện Lâm Thao,0,,4
+25345,Trung tâm y tế huyện Thanh Ba,Huyện Thanh Ba - Tỉnh Việt Trì,25,Phú Thọ,232,Huyện Thanh Ba,0,,4
+25335,Trung tâm y tế huyện Phù Ninh,Huyện Phù Ninh - Tỉnh Việt Trì,25,Phú Thọ,233,Huyện Phù Ninh,0,,4
+25336,Trung tâm y tế huyện Đoan Hùng,Huyện Đoan Hùng - Tỉnh Việt Trì,25,Phú Thọ,230,Huyện Đoan Hùng,0,,4
+25334,Trung tâm y tế thị xã Phú Thọ,Thị xã Phú Thọ - Tỉnh Việt Trì,25,Phú Thọ,228,Thị xã Phú Thọ,0,,4
+25338,Trung tâm y tế huyện Cẩm Khê,Huyện Cẩm Khê - Tỉnh Việt Trì,25,Phú Thọ,235,Huyện Cẩm Khê,0,,4
+25339,Trung tâm y tế huyện Yên Lập,Huyện Yên Lập - Tỉnh Việt Trì,25,Phú Thọ,234,Huyện Yên Lập,0,,4
+25340,Trung tâm y tế huyện Tân Sơn,Huyện Tân Sơn - Tỉnh Việt Trì,25,Phú Thọ,240,Huyện Tân Sơn,0,,4
+25341,Trung tâm y tế huyện Thanh Sơn,Huyện Thanh Sơn - Tỉnh Việt Trì,25,Phú Thọ,238,Huyện Thanh Sơn,0,,4
+25337,Trung tâm y tế huyện Hạ Hòa,Huyện Hạ Hòa - Tỉnh Việt Trì,25,Phú Thọ,227,Thành phố Việt Trì,0,,4
+25342,Trung tâm y tế huyện Thanh Thủy,Huyện Thanh Thủy - Tỉnh Việt Trì,25,Phú Thọ,227,Thành phố Việt Trì,0,,4
+25322,Bệnh xá trường Cao đẳng Công nghiệp Hoá chất,Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,237,Huyện Lâm Thao,8498,Thị trấn Hùng Sơn,4
+25030,Bệnh xá NM đóng tàu sông Lô,,25,Phú Thọ,0,,0,,4
+25031,Bệnh xá NM thực phẩm Việt Trì,,25,Phú Thọ,0,,0,,4
+25036,Trạm y tế công ty cổ phần Lilama 3,,25,Phú Thọ,0,,0,,4
+25037,Bệnh xá lâm trường Đoan Hùng,,25,Phú Thọ,0,,0,,4
+25039,Bệnh xá liên đoàn địa chất Tây Bắc,,25,Phú Thọ,0,,0,,4
+25020,Bệnh xá Công ty CP may Hùng Vương,,25,Phú Thọ,0,,0,,4
+25028,Bệnh xá Công ty chè Phú Đa,,25,Phú Thọ,0,,0,,4
+25043,Bệnh xá Công ty Dệt Vĩnh Phú,,25,Phú Thọ,0,,0,,4
+25035,Bệnh xá trường đào tạo nghề HC,Huyện Lâm Thao - Tỉnh Phú Thọ,25,Phú Thọ,0,,0,,4
+25038,Bệnh xá công ty chè Phú Bền,Huyện Đoan Hùng - Tỉnh Phú Thọ,25,Phú Thọ,0,,0,,4
+25034,Bệnh xá Công ty bia rượu Viger,Phường Thanh Miếu-Thành phố Việt Trì-Tỉnh Phú Thọ,25,Phú Thọ,0,,0,,4
+25029,Bệnh xá Công ty xi măng đá vôi Thanh Ba,Huyện Thanh Ba - Tỉnh Phú Thọ,25,Phú Thọ,232,Huyện Thanh Ba,0,,4
+25041,Bệnh xá trường cao đẳng y tế Phú Thọ,Thị Xã Phú Thọ - Tỉnh phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,0,,4
+25321,Bệnh xá trường CĐY,Thị Xã Phú Thọ - Tỉnh phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,0,,4
+25032,Bệnh xá Công ty CP Giấy Việt Trì,Phường Thanh Miếu - TP Việt Trì - Tỉnh Phú Thọ,25,Phú Thọ,228,Thị xã Phú Thọ,0,,4
+25351,Phòng khám đa khoa Âu Cơ Phú Hà,,25,Phú Thọ,227,Thành phố Việt Trì,7903,Phường Tiên Cát,4
+25352,Phòng khám đa khoa Thanh Hà,,25,Phú Thọ,232,Huyện Thanh Ba,0,,3
+25359,Bệnh Viện Sản Nhi Tỉnh Phú Thọ,,25,Phú Thọ,228,Thị xã Phú Thọ,0,,2
+25361,Trạm y tế xã Bình Phú,"xã Bình Phú, huyện Phù Ninh, tỉnh Phú Thọ",25,Phú Thọ,233,Huyện Phù Ninh,8275,Xã Tử Đà,4
+25362,Trạm y tế xã Hợp Nhất,"xã Hợp Nhất, huyện Đoan Hùng, tỉnh Phú Thọ",25,Phú Thọ,230,Huyện Đoan Hùng,8014,Xã Đại Nghĩa,4
+25363,Trạm y tế xã Hùng Xuyên,"xã Hùng Xuyên, huyện Đoan Hùng, tỉnh Phú Thọ",25,Phú Thọ,230,Huyện Đoan Hùng,7975,Xã Nghinh Xuyên,4
+25364,Trạm y tế xã Phú Lâm,"xã Phú Lâm, huyện Đoan Hùng, tỉnh Phú Thọ",25,Phú Thọ,230,Huyện Đoan Hùng,7987,Xã Phương Trung,4
+25365,Trạm y tế xã Tứ Hiệp,"xã Tứ Hiệp, huyện Hạ Hòa, tỉnh Phú Thọ",25,Phú Thọ,231,Huyện Hạ Hoà,8071,Xã Phụ Khánh,4
+25366,Trạm y tế thị trấn Cẩm Khê,"thị trấn Cẩm Khê, huyện Cẩm Khê, tỉnh Phú Thọ",25,Phú Thọ,235,Huyện Cẩm Khê,8341,Thị trấn Sông Thao,4
+25367,Trạm y tế xã Minh Tân,"xã Minh Tân, huyện Cẩm Khê, tỉnh Phú Thọ",25,Phú Thọ,235,Huyện Cẩm Khê,8353,Xã Phương Xá,4
+25368,Trạm y tế xã Hùng Việt,"xã Hùng Việt, huyện Cẩm Khê, tỉnh Phú Thọ",25,Phú Thọ,235,Huyện Cẩm Khê,8416,Xã Hiền Đa,4
+25369,Trạm y tế xã Đồng Trung,"xã Đồng Trung, Huyện Thanh Thuỷ, tỉnh Phú Thọ",25,Phú Thọ,239,Huyện Thanh Thuỷ,8686,Xã Đồng Luận,4
+25370,Trạm y tế xã Dân Quyền,"xã Dân Quyền, huyện Tam Nông, tỉnh Phú Thọ",25,Phú Thọ,236,Huyện Tam Nông,8491,Xã Thượng Nông,4
+25371,Trạm y tế xã Vạn Xuân,"xã Vạn Xuân, huyện Tam Nông, tỉnh Phú Thọ",25,Phú Thọ,236,Huyện Tam Nông,8467,Xã Cổ Tiết,4
+25372,Trạm y tế xã Bắc Sơn,"xã Lam Sơn, huyện Tam Nông, tỉnh Phú Thọ",25,Phú Thọ,236,Huyện Tam Nông,8443,Xã Hương Nha,4
+25373,Trạm y tế xã Lam Sơn,"xã Lam Sơn, huyện Tam Nông, tỉnh Phú Thọ",25,Phú Thọ,236,Huyện Tam Nông,8461,Xã Phương Thịnh,4
+25374,Trạm y tế xã Phùng Nguyên,"xã Phùng Nguyên, huyện Lâm Thao, tỉnh Phú Thọ",25,Phú Thọ,237,Huyện Lâm Thao,8521,Xã Hợp Hải,4
+25375,Trạm y tế xã Quảng Yên,"xã Quảng Yên, huyện Thanh Ba, tỉnh Phú Thọ",25,Phú Thọ,232,Huyện Thanh Ba,8173,Xã Năng Yên,4

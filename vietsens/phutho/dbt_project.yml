@@ -1,0 +1,45 @@
+name: 'phutho'
+version: '1.0.0'
+config-version: 2
+
+profile: 'phutho'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"  # directory which will store compiled SQL files
+clean-targets:         # directories to be removed by `dbt clean`
+  - "target"
+  - "dbt_packages"
+
+
+models:
+  phutho:
+    benhvien:
+      +materialized: view
+
+
+seeds:
+  phutho:
+    REF_CSKCB:
+      + column_types:
+        MaBenhVien: String
+        TenBenhVien: String
+        DiaChi: String
+        MaTinh: String
+        TenTinh: String
+        MaHuyen: String
+        TenHuyen: String
+        MaXa: String
+        TenXa: String
+        TuyenBenhVien: String
+    REF_KHOA:
+      + column_types: 
+        TenKhoa: String
+    REF_DoiTuongVaoVien:
+      + column_type:
+        DoiTuongVaoVien: String
