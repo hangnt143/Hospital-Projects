@@ -8,4 +8,4 @@ Try running the following commands:
 
 
 ### The Diagram after building:
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hangnt143/Hospital-Projects/blob/master/dbt%20model%20after%20building.png">
+![dbt model after building](https://user-images.githubusercontent.com/115080555/222680427-28cba5e3-0569-4ae6-ac7d-fd13020704f9.png)
